@@ -1,5 +1,5 @@
 #!/bin/bash
-//tracing on
+#tracing on
 set -x
 
 RED='\033[0;31m'
